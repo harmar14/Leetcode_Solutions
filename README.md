@@ -6,6 +6,8 @@ https://leetcode.com/problems/binary-search/
 https://leetcode.com/problems/length-of-last-word/
 # move_zeroes
 https://leetcode.com/problems/move-zeroes/
+# remove_element
+https://leetcode.com/problems/remove-element/
 # reverse_int
 https://leetcode.com/problems/reverse-integer/
 # two_sum
