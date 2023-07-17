@@ -8,6 +8,8 @@ https://leetcode.com/problems/length-of-last-word/
 https://leetcode.com/problems/longest-substring-without-repeating-characters/
 # move_zeroes
 https://leetcode.com/problems/move-zeroes/
+# palindrome_num
+https://leetcode.com/problems/palindrome-number/
 # remove_element
 https://leetcode.com/problems/remove-element/
 # reverse_int
