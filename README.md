@@ -4,6 +4,8 @@ https://leetcode.com/problems/add-two-numbers/
 https://leetcode.com/problems/binary-search/
 # last_word_len
 https://leetcode.com/problems/length-of-last-word/
+# longest_substr_without_repeats
+https://leetcode.com/problems/longest-substring-without-repeating-characters/
 # move_zeroes
 https://leetcode.com/problems/move-zeroes/
 # remove_element
