@@ -10,6 +10,8 @@ https://leetcode.com/problems/move-zeroes/
 https://leetcode.com/problems/remove-element/
 # reverse_int
 https://leetcode.com/problems/reverse-integer/
+# substr_with_concat_of_all_words
+https://leetcode.com/problems/substring-with-concatenation-of-all-words/
 # two_sum
 https://leetcode.com/problems/two-sum/
 # two_sum_2
